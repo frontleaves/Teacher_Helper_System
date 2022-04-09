@@ -1,0 +1,2 @@
+# Teacher_Helper_System
+一个PHP搭建的教师辅助管理系统
