@@ -52,15 +52,15 @@ $setting["sql"]["members"] = "members";
 
 /* ----------------------------  SMTP数据信息  ----------------------------- */
 // SMTP服务器地址
-$setting["SMTP"]["host"] = "smtp.qiye.aliyun.com";
+$setting["SMTP"]["host"] = "";
 // 允许 SMTP 认证
 $setting["SMTP"]["SMTPAuth"] = TRUE;
 // smtp登录的账号
-$setting["SMTP"]["Username"] = "noreplay@x-lf.cn";
+$setting["SMTP"]["Username"] = "";
 // 输入密码或者（腾讯等）授权码
-$setting["SMTP"]["Passwd"] = "X+7ily20040722";
+$setting["SMTP"]["Passwd"] = "";
 // 发件名称
-$setting["SMTP"]["SendName"] = "noreplay@x-lf.cn";
+$setting["SMTP"]["SendName"] = "";
 // 发件昵称
 $setting["SMTP"]["Nick"] = "X-LF技术部";
 // 加密模式（允许TLS或者SSL）
